@@ -63,6 +63,7 @@ This project uses **Python, Pandas, Streamlit, Plotly, Seaborn, and Matplotlib**
 ## How to run 
 ### 1. CLone the Repository
 ```
+https://github.com/Anvesh-Vishwakarma/Olympic-analysis-web-app.git
 ```
 
 ### 2️. Create a Virtual Environment (Recommended)
